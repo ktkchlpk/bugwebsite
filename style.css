@@ -1,0 +1,37 @@
+body {
+   font-family: 'Arial', sans-serif;
+   background-image: url('https://extension.psu.edu/media/catalog/product/7/b/7b7234b093c9651b81d27f0e4aef446e_3.jpeg?quality=80&bg-color=248,248,248&fit=bounds&height=427&width=640&canvas=640:427');
+    background-color: rgb(84, 144, 0);
+    background-blend-mode:screen;
+}
+h1 {
+    color: rgb(255, 111, 0);
+}
+
+#ants {
+    font-size: large;
+    color:rgb(212, 255, 0);
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    height: 700px;
+    width: 120px;
+    overflow: scroll;
+}
+
+#timesnewroman {
+    font-family: 'Times New Roman', sans-serif;
+    color: rgb(233, 121, 77);
+}
+
+#bug2 {
+    position:absolute;
+    left: 400px;
+    top: 700px;
+}
+
+#bug3d {
+    position:absolute;
+    left: 25%;
+    top: 15%;
+}
